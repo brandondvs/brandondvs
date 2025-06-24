@@ -30,4 +30,4 @@ Complex problem solving • Collaboration • Staying optimistic • Continuous 
 
 ## 🎉 Fun fact
 
-🚛 Licensed to drive big rigs (and debug bigger problems)
+🚛 Licensed to drive big rigs (CDL Class A holder)
