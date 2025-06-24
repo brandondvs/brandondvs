@@ -10,6 +10,10 @@
 
 Go • Rust • TypeScript • AI
 
+## Experience
+
+Fullstack • SRE • DevOps • Technical Architecture
+
 ## What I'm passionate about
 
 Complex problem solving • Collaboration • Staying optimistic • Continuous learning
