@@ -2,26 +2,32 @@
 
 **Senior Software Engineer** • 13+ years experience • Self-taught
 
+Building scalable systems and leading engineering teams
+
 *Engineer • Leader • Entrepreneur • AI Herder*
 
 ---
 
-## What I build with
-
-Go • Rust • TypeScript • AI
-
-## Experience
+## 💼 Experience
 
 Fullstack • SRE • DevOps • Technical Architecture
 
-## What I'm passionate about
+## 📬 Availability
+
+Open to interesting opportunities
+
+## 🛠️ What I build with
+
+Go • Rust • TypeScript • AI
+
+## 🚀 What I'm passionate about
 
 Complex problem solving • Collaboration • Staying optimistic • Continuous learning
 
-## When I'm not coding
+## 🎯 When I'm not coding
 
-Music • Dogs • Tattoos
+🎵 Music • 🐕 Dogs • 🎨 Tattoos • 🏔️ Outdoor adventures • ⚡ Action sports
 
-## Fun fact
+## 🎉 Fun fact
 
-Licensed to drive commercial vehicles (CDL Class A)
+🚛 Licensed to drive big rigs (and debug bigger problems)
